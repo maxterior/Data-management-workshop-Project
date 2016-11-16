@@ -1,0 +1,1 @@
+Results directory for output of (statistical) analyses for downstream application/use.

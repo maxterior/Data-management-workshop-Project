@@ -1,0 +1,1 @@
+Data directory of qPCR data generated as both raw numbers and calculated into gene copies per liter of nifH, with a summary with all calculated data put into context.
