@@ -1,0 +1,5 @@
+```{r}
+raw_data_file <- 'C:/Users/marcus/Desktop/Data management workshop Project/Analysis/AN1/bryceveg.R' 
+# relative to where the .Rmd file is!
+data <- read.table(raw_data_file,header=TRUE,row.names=1)
+```
