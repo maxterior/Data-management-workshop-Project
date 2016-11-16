@@ -1,1 +1,1 @@
-Main directory for the marine diazotrophic qPCR project.
+Main directory for the marine diazotrophic qPCR project. Includes tutorial work in git and SourceTree.
